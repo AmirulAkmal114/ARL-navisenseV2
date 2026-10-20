@@ -1,0 +1,19 @@
+# --- Secrets / local configuration ----------------------------------------
+.env
+backend/.env
+
+# --- Python bytecode / caches ---------------------------------------------
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# --- Virtual environments --------------------------------------------------
+backend/myenv/
+.venv/
+venv/
+
+# --- OS / editor -----------------------------------------------------------
+.DS_Store
+Thumbs.db

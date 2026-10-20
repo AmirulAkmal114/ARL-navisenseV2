@@ -4,3 +4,5 @@ sqlalchemy
 psycopg2
 python-dotenv
 email_validator
+bcrypt
+python-dateutil
